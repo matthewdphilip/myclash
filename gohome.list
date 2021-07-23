@@ -1,2 +1,2 @@
 # gohome_ss 注意修改下面的内容
-DOMAIN-SUFFIX,ss.rxoud.com
+IP-CIDR,192.168.2.0/24
